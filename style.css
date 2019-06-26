@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'outline-font';
-  src:  url('fonts/outline-font.eot?v7stvd');
-  src:  url('fonts/outline-font.eot?v7stvd#iefix') format('embedded-opentype'),
-    url('fonts/outline-font.ttf?v7stvd') format('truetype'),
-    url('fonts/outline-font.woff?v7stvd') format('woff'),
-    url('fonts/outline-font.svg?v7stvd#outline-font') format('svg');
+  src:  url('fonts/outline-font.eot?dqkilh');
+  src:  url('fonts/outline-font.eot?dqkilh#iefix') format('embedded-opentype'),
+    url('fonts/outline-font.ttf?dqkilh') format('truetype'),
+    url('fonts/outline-font.woff?dqkilh') format('woff'),
+    url('fonts/outline-font.svg?dqkilh#outline-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -114,276 +114,513 @@
 .of-carte:before {
   content: "\e91d";
 }
-.of-climatiseur:before {
+.of-cle-hotel:before {
   content: "\e91e";
 }
-.of-cocher:before {
+.of-cle-voiture:before {
   content: "\e91f";
 }
-.of-cocher-1:before {
+.of-cle-voiture-1:before {
   content: "\e920";
 }
-.of-colonnes:before {
+.of-climatiseur:before {
   content: "\e921";
 }
-.of-contacts:before {
+.of-cocher:before {
   content: "\e922";
 }
-.of-couches:before {
+.of-cocher-1:before {
   content: "\e923";
 }
-.of-couches-1:before {
+.of-colonnes:before {
   content: "\e924";
 }
-.of-curseur:before {
+.of-conseiller:before {
   content: "\e925";
 }
-.of-direction-assistee:before {
+.of-conseiller-1:before {
   content: "\e926";
 }
-.of-direction-assistee-2:before {
+.of-contacts:before {
   content: "\e927";
 }
-.of-direction-assistee-3:before {
+.of-couches:before {
   content: "\e928";
 }
-.of-dollar:before {
+.of-couches-1:before {
   content: "\e929";
 }
-.of-dollar-2:before {
+.of-curseur:before {
   content: "\e92a";
 }
-.of-dollar-3:before {
+.of-direction-assistee:before {
   content: "\e92b";
 }
-.of-dollar-4:before {
+.of-direction-assistee-2:before {
   content: "\e92c";
 }
-.of-editer:before {
+.of-direction-assistee-3:before {
   content: "\e92d";
 }
-.of-email:before {
+.of-dollar:before {
   content: "\e92e";
 }
-.of-email-1:before {
+.of-dollar-2:before {
   content: "\e92f";
 }
-.of-enregistrer:before {
+.of-dollar-3:before {
   content: "\e930";
 }
-.of-esp:before {
+.of-dollar-4:before {
   content: "\e931";
 }
-.of-fauteuil-chauffrant:before {
+.of-echange:before {
   content: "\e932";
 }
-.of-fauteuil-chauffrant-1:before {
+.of-echange-1 .path1:before {
   content: "\e933";
+  color: rgb(167, 169, 172);
 }
-.of-fermer:before {
+.of-echange-1 .path2:before {
   content: "\e934";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-fermer-1:before {
+.of-echange-1 .path3:before {
   content: "\e935";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-fermer-2:before {
+.of-echange-1 .path4:before {
   content: "\e936";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-gps:before {
+.of-echange-1 .path5:before {
   content: "\e937";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-gps-1:before {
+.of-echange-1 .path6:before {
   content: "\e938";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-image:before {
+.of-echange-1 .path7:before {
   content: "\e939";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-information:before {
+.of-echange-1 .path8:before {
   content: "\e93a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-localisation:before {
+.of-echange-1 .path9:before {
   content: "\e93b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-localisation-1:before {
+.of-echange-1 .path10:before {
   content: "\e93c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-localisation-2:before {
+.of-echange-1 .path11:before {
   content: "\e93d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-localisation-3:before {
+.of-echange-1 .path12:before {
   content: "\e93e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-localisation-4:before {
+.of-echange-1 .path13:before {
   content: "\e93f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-menu:before {
+.of-echange-1 .path14:before {
   content: "\e940";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-menu-1:before {
+.of-echange-1 .path15:before {
   content: "\e941";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-menu-2:before {
+.of-echange-1 .path16:before {
   content: "\e942";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-menu-3:before {
+.of-echange-1 .path17:before {
   content: "\e943";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-montre:before {
+.of-echange-1 .path18:before {
   content: "\e944";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-montre-1:before {
+.of-echange-1 .path19:before {
   content: "\e945";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-montre-2:before {
+.of-echange-1 .path20:before {
   content: "\e946";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-moteur:before {
+.of-echange-1 .path21:before {
   content: "\e947";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-moteur-2:before {
+.of-echange-1 .path22:before {
   content: "\e948";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-musique:before {
+.of-echange-1 .path23:before {
   content: "\e949";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-musique-1:before {
+.of-echange-1 .path24:before {
   content: "\e94a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-musique-2:before {
+.of-echange-1 .path25:before {
   content: "\e94b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-musique-3:before {
+.of-echange-1 .path26:before {
   content: "\e94c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-notification:before {
+.of-echange-1 .path27:before {
   content: "\e94d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-parametre:before {
+.of-echange-1 .path28:before {
   content: "\e94e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-pneu:before {
+.of-echange-1 .path29:before {
   content: "\e94f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-porte-voiture:before {
+.of-echange-1 .path30:before {
   content: "\e950";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-question:before {
+.of-echange-1 .path31:before {
   content: "\e951";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-question-1:before {
+.of-echange-1 .path32:before {
   content: "\e952";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.of-quote-droite:before {
+.of-echange-2:before {
   content: "\e953";
 }
-.of-quote-gauche:before {
+.of-editer:before {
   content: "\e954";
 }
-.of-recherche:before {
+.of-email:before {
   content: "\e955";
 }
-.of-recherche-1:before {
+.of-email-1:before {
   content: "\e956";
 }
-.of-regulateur-vitesse:before {
+.of-enregistrer:before {
   content: "\e957";
 }
-.of-repertoire:before {
+.of-entretien-voiture:before {
   content: "\e958";
 }
-.of-siege-auto-bebe:before {
+.of-entretien-voiture-1:before {
   content: "\e959";
 }
-.of-siege-auto-bebe-1:before {
+.of-envoyer:before {
   content: "\e95a";
 }
-.of-siege-auto-bebe-2:before {
+.of-equipe:before {
   content: "\e95b";
 }
-.of-sortir:before {
+.of-equipe-1:before {
   content: "\e95c";
 }
-.of-station:before {
+.of-esp:before {
   content: "\e95d";
 }
-.of-station-1:before {
+.of-etoile:before {
   content: "\e95e";
 }
-.of-supprimer:before {
+.of-etoile-1:before {
   content: "\e95f";
 }
-.of-tableau-de-bord:before {
+.of-etoile-2:before {
   content: "\e960";
 }
-.of-tableau-de-bord-1:before {
+.of-facebook:before {
   content: "\e961";
 }
-.of-tableau-de-bord-2:before {
+.of-fauteuil-chauffrant:before {
   content: "\e962";
 }
-.of-tableau-de-bord-3:before {
+.of-fauteuil-chauffrant-1:before {
   content: "\e963";
 }
-.of-tableau-de-bord-4:before {
+.of-fermer:before {
   content: "\e964";
 }
-.of-telecharger:before {
+.of-fermer-1:before {
   content: "\e965";
 }
-.of-telephone:before {
+.of-fermer-2:before {
   content: "\e966";
 }
-.of-telephone-1:before {
+.of-gps:before {
   content: "\e967";
 }
-.of-telephone-2:before {
+.of-gps-1:before {
   content: "\e968";
 }
-.of-texte:before {
+.of-image:before {
   content: "\e969";
 }
-.of-usb:before {
+.of-information:before {
   content: "\e96a";
 }
-.of-usb-1:before {
+.of-instagram:before {
   content: "\e96b";
 }
-.of-usb-2:before {
+.of-linkedin:before {
   content: "\e96c";
 }
-.of-usb-3:before {
+.of-localisation:before {
   content: "\e96d";
 }
-.of-utilisateur:before {
+.of-localisation-1:before {
   content: "\e96e";
 }
-.of-utilisateur-1:before {
+.of-localisation-2:before {
   content: "\e96f";
 }
-.of-utilisateur-2:before {
+.of-localisation-3:before {
   content: "\e970";
 }
-.of-utilisateur-3:before {
+.of-localisation-4:before {
   content: "\e971";
 }
-.of-verrouiller:before {
+.of-menu:before {
   content: "\e972";
 }
-.of-vitesse:before {
+.of-menu-1:before {
   content: "\e973";
 }
-.of-vitre-electrique:before {
+.of-menu-2:before {
   content: "\e974";
 }
-.of-voir:before {
+.of-menu-3:before {
   content: "\e975";
 }
-.of-voiture:before {
+.of-montre:before {
   content: "\e976";
 }
-.of-voiture-toit-ouvrant:before {
+.of-montre-1:before {
   content: "\e977";
 }
-.of-voiture-toit-ouvrant-1:before {
+.of-montre-2:before {
   content: "\e978";
+}
+.of-moteur:before {
+  content: "\e979";
+}
+.of-moteur-2:before {
+  content: "\e97a";
+}
+.of-musique:before {
+  content: "\e97b";
+}
+.of-musique-1:before {
+  content: "\e97c";
+}
+.of-musique-2:before {
+  content: "\e97d";
+}
+.of-musique-3:before {
+  content: "\e97e";
+}
+.of-notification:before {
+  content: "\e97f";
+}
+.of-parametre:before {
+  content: "\e980";
+}
+.of-pneu:before {
+  content: "\e981";
+}
+.of-porte-voiture:before {
+  content: "\e982";
+}
+.of-question:before {
+  content: "\e983";
+}
+.of-question-1:before {
+  content: "\e984";
+}
+.of-quote-droite:before {
+  content: "\e985";
+}
+.of-quote-gauche:before {
+  content: "\e986";
+}
+.of-recherche:before {
+  content: "\e987";
+}
+.of-recherche-1:before {
+  content: "\e988";
+}
+.of-regulateur-vitesse:before {
+  content: "\e989";
+}
+.of-reparation-voiture:before {
+  content: "\e98a";
+}
+.of-repertoire:before {
+  content: "\e98b";
+}
+.of-reseau:before {
+  content: "\e98c";
+}
+.of-reseau-1:before {
+  content: "\e98d";
+}
+.of-siege-auto-bebe:before {
+  content: "\e98e";
+}
+.of-siege-auto-bebe-1:before {
+  content: "\e98f";
+}
+.of-siege-auto-bebe-2:before {
+  content: "\e990";
+}
+.of-sms:before {
+  content: "\e991";
+}
+.of-sms-1:before {
+  content: "\e992";
+}
+.of-sms-2:before {
+  content: "\e993";
+}
+.of-sortir:before {
+  content: "\e994";
+}
+.of-station:before {
+  content: "\e995";
+}
+.of-station-1:before {
+  content: "\e996";
+}
+.of-supprimer:before {
+  content: "\e997";
+}
+.of-tableau-de-bord:before {
+  content: "\e998";
+}
+.of-tableau-de-bord-1:before {
+  content: "\e999";
+}
+.of-tableau-de-bord-2:before {
+  content: "\e99a";
+}
+.of-tableau-de-bord-3:before {
+  content: "\e99b";
+}
+.of-tableau-de-bord-4:before {
+  content: "\e99c";
+}
+.of-telecharger:before {
+  content: "\e99d";
+}
+.of-telephone:before {
+  content: "\e99e";
+}
+.of-telephone-1:before {
+  content: "\e99f";
+}
+.of-telephone-2:before {
+  content: "\e9a0";
+}
+.of-texte:before {
+  content: "\e9a1";
+}
+.of-twitter:before {
+  content: "\e9a2";
+}
+.of-unis:before {
+  content: "\e9a3";
+}
+.of-usb:before {
+  content: "\e9a4";
+}
+.of-usb-1:before {
+  content: "\e9a5";
+}
+.of-usb-2:before {
+  content: "\e9a6";
+}
+.of-usb-3:before {
+  content: "\e9a7";
+}
+.of-utilisateur:before {
+  content: "\e9a8";
+}
+.of-utilisateur-1:before {
+  content: "\e9a9";
+}
+.of-utilisateur-2:before {
+  content: "\e9aa";
+}
+.of-utilisateur-3:before {
+  content: "\e9ab";
+}
+.of-verrouiller:before {
+  content: "\e9ac";
+}
+.of-vitesse:before {
+  content: "\e9ad";
+}
+.of-vitre-electrique:before {
+  content: "\e9ae";
+}
+.of-voir:before {
+  content: "\e9af";
+}
+.of-voiture:before {
+  content: "\e9b0";
+}
+.of-voiture-toit-ouvrant:before {
+  content: "\e9b1";
+}
+.of-voiture-toit-ouvrant-1:before {
+  content: "\e9b2";
 }
